@@ -1,17 +1,17 @@
 [
   {
-    "title": "God of War: Chains of Olympus",
-    "description": "مغامرات كريتوس في عالم الآلهة، لعبة أكشن مثيرة على PSP.",
-    "downloadLink": "https://example.com/downloads/god_of_war.iso"
+    "title": "لعبة 1",
+    "description": "وصف لعبة 1",
+    "downloadLink": "https://example.com/game1.iso"
   },
   {
-    "title": "Grand Theft Auto: Vice City Stories",
-    "description": "حرّك الشوارع في مدينة Vice City بقصة مشوقة وألعاب متعددة.",
-    "downloadLink": "https://example.com/downloads/gta_vice_city.iso"
+    "title": "لعبة 2",
+    "description": "وصف لعبة 2",
+    "downloadLink": "https://example.com/game2.iso"
   },
   {
-    "title": "Metal Gear Solid: Peace Walker",
-    "description": "تجربة تجسس وتكتيك مع لعبة Metal Gear Solid على PSP.",
-    "downloadLink": "https://example.com/downloads/mgs_peace_walker.iso"
+    "title": "لعبة 1",
+    "description": "وصف لعبة 1",
+    "downloadLink": "https://example.com/game1.iso"
   }
 ]
